@@ -1,7 +1,11 @@
 # Belly-button-challenge
 Student:  Ryan Himes
+
 Instructor:  Steven Greene
-09 September 2023
+
+Date: 19 September 2023
+
+
 
 ## Table of Contents
 - [About](#about)
