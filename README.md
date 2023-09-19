@@ -17,7 +17,7 @@ Date: 19 September 2023
 In this challenge, I crafted an interactive dashboard to delve into the Belly Button Biodiversity dataset that chronicles the microbial species inhabiting human navels. Using VS Code, I designed an HTML document and integrated JavaScript with the help of the D3 library to parse JSON data, resulting in a dashboard that presents dynamic data visualizations using Plotly.
 
 ## Getting Started
-JavaScript's D3 library was used to parse JSON data, creating data visualizations using Plotly. Then running the HTML file to display the interactive dashboard. Upon loading the webpage, the dashboard is initialized, fetching data and presenting visualizations corresponding to the first sample. Users can select different samples from the dropdown menu to explore various data points interactively.
+I employed JavaScript's D3 library to parse JSON data. After retrieving the data, I associated metadata with a specific sample during extraction. I then designed data visualizations utilizing Plotly. When the HTML file is executed, it unveils an interactive dashboard. On accessing the webpage, the interactive dashboard is displayed, sourcing data and illustrating different samples of data visualizations. Users have the flexibility to pick different samples from a dropdown, enabling them to navigate through diverse data points in an interactive manner.
 ## Contributing
 - <a href="https://www.github.com/agostinger/" target="_blank">Adam Gostinger</a>
 - <a href="https://www.github.com/zonaj2/" target="_blank">Juliet Hamilton</a>
