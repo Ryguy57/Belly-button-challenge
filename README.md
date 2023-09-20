@@ -20,7 +20,7 @@ In this challenge, I crafted an interactive dashboard to delve into the Belly Bu
 This code showcases JavaScript's D3 library's ability to parse JSON data. After retrieving the data, I associated metadata with a specific sample during extraction. I then designed data visualizations utilizing Plotly. When the HTML file is executed, it unveils an interactive dashboard. On accessing the webpage, the interactive dashboard is displayed, sourcing data and illustrating different samples of data visualizations. Users have the flexibility to pick different samples from a dropdown, enabling them to navigate through diverse data points in an interactive manner.
 ## Contributing
 - <a href="https://www.github.com/agostinger/" target="_blank">Adam Gostinger</a>
-- <a href="https://www.github.com/zonaj2/" target="_blank">Juliet Hamilton</a>
+
 
 
 ## Summary
