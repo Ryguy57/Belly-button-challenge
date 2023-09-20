@@ -34,7 +34,8 @@ This function is responsible for visualizing the data. It extracts relevant info
 
 Bar Chart: A horizontal bar chart is plotted using the Plotly.newPlot method, showcasing the top 10 sample values in reverse order. The OTU IDs serve as the y-axis labels.
 
-Bubble Chart: A bubble chart is constructed to show the relationship between OTU IDs (x-axis) and sample values (y-axis). The size and color of the bubbles are determined by sample values and OTU IDs, respectively.
+Bubble Chart: A bubble chart is constructed to show the relationship between OTU IDs (x-axis) and sample values (y-axis). The size and color of the bubbles are determined by sample values and OTU IDs.
+
 Metadata Display: Metadata associated with each sample is fetched and displayed on the webpage.
 
 Gauge Chart: This chart depicts the Belly Button Washing Frequency, represented as scrubs per week. The data is showcased using a gauge chart, with various color segments indicating different frequency ranges.
